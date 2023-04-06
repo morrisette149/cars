@@ -13,7 +13,7 @@
             @endif
 
             <div class="card">
-                <div class="card-header">{{ __('List of Car') }}</div>
+                <div class="card-header">{{ __('Show List of Car') }}</div>
 
                 <!--make another form for searching-->
                 <div class="float-right">
